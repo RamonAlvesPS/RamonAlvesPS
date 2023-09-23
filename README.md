@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RamonAlvesPS/RamonAlvesPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=125&section=header&text=&fontSize=90" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9632e6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Ramon+Alves;Seja+Bem+Vindo!!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9632e6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Ramon+Alves;Seja+Bem+Vindo!!+:%29)](https://git.io/typing-svg)
 
 <!-- <h1 align="center"> Ramon Alves </h1>-->
 
