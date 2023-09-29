@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=125&section=header&text=&fontSize=90" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9632e6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Ramon+Alves;Seja+Bem+Vindo!!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9632e6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Ramon+Alves;Seja+Bem+Vindo!!+:%29)
 
 <!-- <h1 align="center"> Ramon Alves </h1>-->
 
 <h4>
-👋 Sou um entusiasta da tecnologia desde os meus primeiros contatos com computadores. Minha jornada começou quando adquiri meu primeiro notebook no 7º ano do ensino fundamental, o que despertou minha paixão pela área de tecnologia. Essa paixão me levou a escolher o curso técnico de Informática no IFPB campus Sousa, onde me aprofundei ainda mais no mundo da computação.
+<br/> 👋 Sou um entusiasta da tecnologia desde os meus primeiros contatos com computadores. Minha jornada começou quando adquiri meu primeiro notebook no 7º ano do ensino fundamental, o que despertou minha paixão pela área de tecnologia. Essa paixão me levou a escolher o curso técnico de Informática no IFPB campus Sousa, onde me aprofundei ainda mais no mundo da computação.
 
-<br>🎓 Atualmente, estou cursando Engenharia de Controle e Automação no IFPB campus Cajazeiras, buscando ampliar meu conhecimento e habilidades para criar soluções inovadoras no campo da automação e controle.
+<br/>🎓 Atualmente, estou cursando Engenharia de Controle e Automação no IFPB campus Cajazeiras, buscando ampliar meu conhecimento e habilidades para criar soluções inovadoras no campo da automação e controle.
 
 🤖 Minha paixão por compartilhar conhecimento e inspirar outras mentes levou-me a fazer parte do projeto de Robótica Educacional na prefeitura da minha cidade. Lá, tenho o privilégio de ministrar aulas de tecnologia para estudantes do 6º ao 9º ano do ensino fundamental. Ver o brilho nos olhos dos alunos quando eles descobrem o mundo da robótica é uma sensação gratificante que me motiva todos os dias.
 
