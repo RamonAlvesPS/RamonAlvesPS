@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=125&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9632e6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Ramon+Alves;Seja+Bem+Vindo!!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9632e6&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Ramon+Alves;Seja+Bem+Vindo!!+:%29)
 
 <!-- <h1 align="center"> Ramon Alves </h1>-->
 
